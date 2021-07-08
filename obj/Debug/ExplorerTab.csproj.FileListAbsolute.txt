@@ -1,0 +1,10 @@
+C:\Users\tasak\source\repos\ExplorerTab\bin\Debug\ExplorerTab.exe.config
+C:\Users\tasak\source\repos\ExplorerTab\bin\Debug\ExplorerTab.exe
+C:\Users\tasak\source\repos\ExplorerTab\bin\Debug\ExplorerTab.pdb
+C:\Users\tasak\source\repos\ExplorerTab\obj\Debug\ExplorerTab.csproj.AssemblyReference.cache
+C:\Users\tasak\source\repos\ExplorerTab\obj\Debug\ExplorerTab.Form1.resources
+C:\Users\tasak\source\repos\ExplorerTab\obj\Debug\ExplorerTab.Properties.Resources.resources
+C:\Users\tasak\source\repos\ExplorerTab\obj\Debug\ExplorerTab.csproj.GenerateResource.cache
+C:\Users\tasak\source\repos\ExplorerTab\obj\Debug\ExplorerTab.csproj.CoreCompileInputs.cache
+C:\Users\tasak\source\repos\ExplorerTab\obj\Debug\ExplorerTab.exe
+C:\Users\tasak\source\repos\ExplorerTab\obj\Debug\ExplorerTab.pdb
